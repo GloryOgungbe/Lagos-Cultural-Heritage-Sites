@@ -1,0 +1,16 @@
+# My Project Brief
+
+## Project Title
+Spatial Inventory of Cultural Heritage Sites in Lagos State
+
+## Project Brief
+This project will use GIS to identify, map, and determine the number and spatial distribution of cultural heritage sites across Lagos State using geospatial and administrative boundary data.
+
+## Question to be Answered
+How many Cultural Heritage Sites are there in Lagos State?
+
+## The Data Needed
+-Cultural Heritage Site Inventory - [National Commission for Museums and Monuments (NCMM)-(https://museum.ng/national-monuments-in-nigeria/list-of-national-monuments/ -Geographic Coordinates (Latitude & Longitude)-Google Maps -Lagos State Boundary GRID3 Nigeria-GeoPackage (.gpkg) – 996 KB -Local Government Area (LGA) Boundary -GRID3 Nigeria-GeoPackage (.gpkg) – 4.2 MB -Heritage Site Identification / Unique ID - Researcher-generated GIS Database- Unique identifier for each site -Heritage Site Category / Type- [National Commission for Museums and Monuments (NCMM)-(https://museum.ng/national-monuments-in-nigeria/list-of-national-monuments/)
+
+## What would i Build?
+A GIS Map Showing the Database of Cultural Heritage sites in Lagos State
